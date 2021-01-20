@@ -10,6 +10,7 @@ class IconExample extends StatelessWidget {
         Icons.image,
         size: 64.0,
         color: Theme.of(context).primaryColor,
+<H1> hola </h1>
       ),
     );
   }
